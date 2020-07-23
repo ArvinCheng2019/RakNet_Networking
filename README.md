@@ -4,7 +4,7 @@ This is an updated version of the wrapper for the native library of the RakNet n
 ## How to use it
 In order to use The raknet network engine in your project, I recommend that you study the test client and server.
 
-Download this repository and place the downloaded files in the Assets folder of your project.
+Download this repository and place the downloaded files in a convenient location then run Unity3D
 
 If you have this error
 
